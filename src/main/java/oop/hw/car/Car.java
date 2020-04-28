@@ -1,4 +1,4 @@
-package oop.hw;
+package oop.hw.car;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

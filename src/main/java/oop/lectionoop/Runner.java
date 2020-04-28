@@ -1,4 +1,6 @@
-package oop;
+package oop.lectionoop;
+
+import oop.lectionoop.Iron;
 
 public class Runner {
     public static void main(String[] args) {

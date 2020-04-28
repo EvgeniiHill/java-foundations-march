@@ -1,4 +1,6 @@
-package oop.hw;
+package oop.hw.car;
+
+import oop.hw.car.Car;
 
 public class HWCar {
     public static void main(String[] args) {
